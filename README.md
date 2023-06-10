@@ -1,7 +1,4 @@
-# CMH
-Communication Mode Hierarchy
-
-通信方式层级结构
+# 通信方式层级结构 Communication Mode Hierarchy CMH
 
 `CMH` 是用于描述各种通信方式之间关系的模型，类似于OSI模型，分为 `介质层` `信道层` `调制层` `接口层` `信息层` `封装层` `界面层` 共七层。
 
