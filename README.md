@@ -11,6 +11,8 @@
 Each layer of elements can be contained downwards, while high-level elements utilize low-level elements. Different elements may contain different lower level elements. 
 
 The inter layer/inter layer relationships are not absolutely strict and can be flexibly adjusted as needed.
+## 本地化内容
+zh_Hans 中文简体 https://github.com/minexixi/CMH/tree/main/localization/zh_Hans
 ## 本地化规范
 本地化文件夹应在 `./localization` 目录下，文件夹命名规范采用 `RFC 4646` http://www.ietf.org/rfc/rfc4646.txt
 
